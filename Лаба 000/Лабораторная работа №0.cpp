@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 int main() {
-	int a, b, c, res;
+	int a, b, c, res; //Программа (ЛР №0) высчитывает разность между 2-ым и 3-им числами
 	printf("Enter the first number: ");
 	scanf("%d", &a);
 	printf("Enter the first number: ");
