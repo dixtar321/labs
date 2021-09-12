@@ -19,6 +19,9 @@ int main() {
 	else if (res > 0) {
 		printf("Result: %d - %d = %d", a, b, res);
 	}
+	
+	else
+		printf("Result: %d - %d = %d", a, b, res);
 
 	return 0;
 }
